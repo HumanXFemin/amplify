@@ -8,7 +8,7 @@ permalink: /about/
 
 Impressum:
 
-Initiative für Humanismus statt Feminismus.
-Oliver P. Hoffmann
-Karolinengasse 31/20
+Initiative für Humanismus statt Feminismus<br>
+Oliver P. Hoffmann<br>
+Karolinengasse 31/20<br>
 1040 Wien
